@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "first one",
+      "description": "I will succeed",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "Hello Brother",
+      "id": 2
+    },
+    {
+      "title": "dabanng",
+      "description": "hud hud dabang",
+      "userId": "117663553752289289226",
+      "id": 4
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "Here is goes",
+      "userId": "117663553752289289226",
+      "id": 5
+    }
+  ]
+}
